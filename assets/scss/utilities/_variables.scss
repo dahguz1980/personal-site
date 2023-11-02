@@ -1,0 +1,28 @@
+// VARIABLES BOOTSTRAP
+//COLOR
+$primary: #0d1d2d;
+$secondary: #222222;
+$info: #2c2c2c;
+$light: #878585;
+$body-bg: rgb(186, 186, 184);
+$body-color: $primary;
+$headings-color: #0f2916;
+//FONT FAMILY AND SIZE
+$font-family-sans-serif: 'Ubuntu', sans-serif;
+$headings-font-family: 'Exo 2', sans-serif;
+$h1-font-size: 1.75rem;
+$h2-font-size: 1.5rem;
+$h3-font-size: 1.25rem;
+$h4-font-size: 1rem;
+$h5-font-size: 0.875rem;
+$h6-font-size: 0.75rem; 
+//BUTTON
+$btn-line-height: 50px;
+$btn-border-radius: 0px;
+$btn-border-color: $body-bg;
+// NAVBAR
+$navbar-light-color: $body-bg;
+$navbar-light-hover-color: $body-bg;
+$navbar-light-active-color: $headings-color;
+$navbar-padding-y: 0;
+$navbar-padding-x: 0;
